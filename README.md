@@ -1,6 +1,4 @@
-Sure! Here's the complete version of your updated documentation with the Google Drive download step included:
 
----
 
 # 📌 **Flask API for Bottle Size and Brand Prediction**  
 
